@@ -1,3 +1,3 @@
 //Import .css
-import "./normalize.css"
+import "./normalize.css";
 import "./styles.css";
